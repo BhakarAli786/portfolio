@@ -7,7 +7,7 @@ return (
 .NET & React Developer — building clean & modern applications.
 </p>
 <div className='mt-5 flex justify-center gap-3'>
-<a href='/T_Bhakar_Ali_Resume.docx' className='px-4 py-2 bg-primary text-white rounded shadow'>📄 Download Resume</a>
+<a href='/Bhakar_Ali_Resume_V' className='px-4 py-2 bg-primary text-white rounded shadow'>📄 Download Resume</a>
 <a href='#projects' className='px-4 py-2 bg-accent text-white rounded shadow'>⭐ View Projects</a>
 </div>
 </section>
